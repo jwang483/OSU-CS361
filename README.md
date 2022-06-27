@@ -1,3 +1,3 @@
 # OSU-CS361
 
-This is the first commit
+This is a test commit

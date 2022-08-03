@@ -14,3 +14,8 @@ Example:
 
 Example:
 ![image](https://user-images.githubusercontent.com/55546624/181373045-cd714d57-f83e-47cd-b98d-8b82031fc089.png)
+
+
+UML diagram
+![uml](https://user-images.githubusercontent.com/55546624/182706540-3a61428d-6471-4f43-9cb4-f8476beab50f.jpg)
+

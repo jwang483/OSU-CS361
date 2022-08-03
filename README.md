@@ -4,7 +4,10 @@
 
 npm install express and npm init to install them. You will also need to install Node.js. You can download the correct version from their website.
 
+REQUEST
+-------------------
 -To use the this service, you need to run the server first(node server.js or npm start), and sent a get request by simply click the register button.
+-Or if using for another language, you must create a class for register. Then 
 
 Example: 
 ![image](https://user-images.githubusercontent.com/55546624/181372913-6c0bc111-9ed2-4bd9-bc74-eb75c39e4637.png)
